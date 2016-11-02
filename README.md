@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+Muby here. Let's have fun
+
